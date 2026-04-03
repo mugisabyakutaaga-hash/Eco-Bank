@@ -1,0 +1,5 @@
+{
+  "name": "mfunzi",
+  "description": "Pan-African AI Gateway: A Sovereign Intelligence Layer for Ecobank, featuring trade desks, SME lending, and wallet management.",
+  "requestFramePermissions": ["camera"]
+}
